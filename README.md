@@ -1,3 +1,3 @@
-# SocksHttp (versão antiga)
+# SocksHttp (old version)
 
-Cliente ssh tunnel para Android.
+SSH client for Android.
